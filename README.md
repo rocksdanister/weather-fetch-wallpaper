@@ -14,6 +14,7 @@ Drag & drop the file into Lively window to install.
  1. Create an account in [http://openweathermap.org/](http://openweathermap.org/)
  2. Generate an api key.
  3. Enter the key & city after opening Customise menu in Lively.
- 4. Done!
+ 4. Hit Refresh, api key might take some time to activate so if you get error try after sometime.
+ 5. Done!
 
 Play around with the code by looking at showCurrentWeather() and showForecastWeather() functions in js/script.js file.
